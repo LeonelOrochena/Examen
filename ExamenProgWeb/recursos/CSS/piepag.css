@@ -1,0 +1,17 @@
+#footer{
+    background: rgba(252, 228, 219, 0.89);
+    padding-left: 625px;
+}
+
+#primerpie{
+    float: left;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+#secondpie{
+    float: right;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}
